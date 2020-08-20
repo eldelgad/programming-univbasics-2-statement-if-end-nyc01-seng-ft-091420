@@ -1,11 +1,13 @@
 # Write your solution here
 
-run_code_inside = false
+# Ex. 1 #
 
-puts "Code before if...end"
+# run_code_inside = false
 
-  if run_code_inside
-    puts "code inside"
-  end
+# puts "Code before if...end"
+
+#   if run_code_inside
+#     puts "code inside"
+#   end
   
-puts "Code after if...end"
+# puts "Code after if...end"
