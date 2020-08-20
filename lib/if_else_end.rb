@@ -14,7 +14,7 @@
 
 # Ex. 2 #
 
-chance_of_rain = 0.2
+chance_of_rain = 1
 
 puts "Let's go outside!"
 
