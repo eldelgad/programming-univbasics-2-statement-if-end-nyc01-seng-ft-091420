@@ -10,4 +10,4 @@ if current_time % 2 == 0
 else
   puts "Odd!"
   
-end #-> will output Even! or Odd! if the last second is an even or an odd integer.
+end #-> will output "Even!" or "Odd!" if the last second is an even or an odd integer.
